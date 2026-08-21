@@ -19,3 +19,5 @@ homework/homework03/data/raw/
 
 # Ignore OS files
 .DS_Store
+.vscode/
+
