@@ -15,6 +15,7 @@ __pycache__/
 # Ignore homework data files
 homework/homework01/loan_default_risk/data/raw/
 homework/homework01/loan_default_risk/data/processed/
+homework/homework03/data/raw/
 
 # Ignore OS files
 .DS_Store
