@@ -1,0 +1,6 @@
+applicant_id,income,loan_amount,default_risk
+1001,55000,12000,low
+1002,72000,18000,medium
+1003,41000,9000,high
+1004,88000,25000,low
+1005,62000,15000,medium
